@@ -3,8 +3,11 @@ import {ProjectCard} from "./ProjectCard"
 import colorSharp2 from "../assets/img/color-sharp2.png"
 import SiguiendolaLuna from "../assets/img/SiguiendolaLuna.png"
 import Mapa from "../assets/img/Mapa.PNG"
-import projImg3 from "../assets/img/project-img3.png"
+import GeneradorQR from "../assets/img/GenerardorQR.PNG"
 import Desarrolloi from "../assets/img/Desarrollo i.PNG"
+import BuenasTintas from "../assets/img/BuentasTintas.PNG"
+import LolaEnBarracas from "../assets/img/LolaEnBarracas.PNG"
+import LaVidaDelTripulante from "../assets/img/LaVidaDelTripulante.PNG"
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -21,47 +24,48 @@ export const Projects = () => {
     {
       title: "La Vida del Tripulante",
       description: "Desarrollo y diseño ",
-      imgUrl: Mapa,
+      imgUrl: LaVidaDelTripulante,
       language: "React.js"
     },
     {
       title: "Mapa interactivo - Desarrollo i",
       description: "Desarrollo, diseño y recolección de datos",
       imgUrl: Mapa,
-      language: "JavaScript"
+      language: "JavaScript",
+      web: "https://mapa.desarrolloi.org"
     },
 
     {
       title: "Buenas tintas",
-      description:
-        "e-commerce desarrollado para trabajo integrador ",
-      imgUrl: SiguiendolaLuna,
+      description:"e-commerce desarrollado para trabajo integrador ",
+      imgUrl: BuenasTintas,
       language: "JavaScript"
     },
     {
       title: "Generador de QR",
       description: "App simple para generar QR",
-      imgUrl: Mapa,
-      language: "JavaScript"
+      imgUrl: GeneradorQR,
+      language: "JavaScript",
+      web: "https://qr.divisioncode.net.ar/"
     },
     {
       title: "Lola en Barracas app para gestión de stock",
       description: "Diseño y desarrollo con Electron.js",
-      imgUrl: projImg3,
+      imgUrl: LolaEnBarracas,
       language: "JavaScript"
     },
-    {
-      title: "Sentiment Analisys",
-      description:
-        "Modelo predictor de sentimientos de tweets para trabajo integrador (Python)",
-      imgUrl: SiguiendolaLuna,
-      language: "Otro"
-    },
+    // {
+    //   title: "Sentiment Analisys",
+    //   description:"Modelo predictor de sentimientos de tweets para trabajo integrador (Python)",
+    //   imgUrl: SiguiendolaLuna,
+    //   language: "Otro"
+    // },
     {
       title: "Desarrollo i",
       description: "Desarrollo y diseño (wordpress)",
       imgUrl: Desarrolloi,
-      language: "Otro"
+      language: "Otro",
+      web: "https://www.desarrolloi.org"
     },
   ];
 

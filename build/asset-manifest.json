@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.633b151e.css",
-    "main.js": "/static/js/main.a2e8a34b.js",
+    "main.js": "/static/js/main.d79046ff.js",
     "static/js/787.a3ef4163.chunk.js": "/static/js/787.a3ef4163.chunk.js",
     "static/media/Desarrollo i.PNG": "/static/media/Desarrollo i.6706019c459e26506e39.PNG",
     "static/media/SiguiendolaLuna.png": "/static/media/SiguiendolaLuna.8aeb5aed1fc8295e4136.png",
+    "static/media/LaVidaDelTripulante.PNG": "/static/media/LaVidaDelTripulante.6157f23427c5cfe32c88.PNG",
+    "static/media/BuentasTintas.PNG": "/static/media/BuentasTintas.d7083e25bcce416aebdd.PNG",
     "static/media/Mapa.PNG": "/static/media/Mapa.06c466cf90c6d9c16895.PNG",
     "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/banner-bg.png": "/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/LolaEnBarracas.PNG": "/static/media/LolaEnBarracas.8d556f19bfc8eccf2ed3.PNG",
     "static/media/github.png": "/static/media/github.55775154802bccea5a0d.png",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -17,10 +20,10 @@
     "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/Isotipo.png": "/static/media/Isotipo.a8a40ead44c378c78c4f.png",
     "static/media/mongodb.svg.png": "/static/media/mongodb.svg.269ecbf8ea685b291be7.png",
-    "static/media/project-img3.png": "/static/media/project-img3.675b30d2f975a1bc1d09.png",
     "static/media/React-icon.svg.png": "/static/media/React-icon.svg.ac9979693620f0a96231.png",
     "static/media/mysql.svg.png": "/static/media/mysql.svg.bdbd1eb709e4c13258d2.png",
     "static/media/Logotipo.png": "/static/media/Logotipo.830d55edbb580d2ffe2b.png",
+    "static/media/GenerardorQR.PNG": "/static/media/GenerardorQR.d606c7f98faeea240919.PNG",
     "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/Python_logo.svg.png": "/static/media/Python_logo.svg.fc76bc2c7437aa4edebf.png",
@@ -29,11 +32,11 @@
     "index.html": "/index.html",
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.633b151e.css.map": "/static/css/main.633b151e.css.map",
-    "main.a2e8a34b.js.map": "/static/js/main.a2e8a34b.js.map",
+    "main.d79046ff.js.map": "/static/js/main.d79046ff.js.map",
     "787.a3ef4163.chunk.js.map": "/static/js/787.a3ef4163.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.633b151e.css",
-    "static/js/main.a2e8a34b.js"
+    "static/js/main.d79046ff.js"
   ]
 }

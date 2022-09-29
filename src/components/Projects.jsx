@@ -78,10 +78,6 @@ export const Projects = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
             <h2>Proyectos</h2>
-            <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi,
-              magnam?
-            </p>
             <Tab.Container id="projects-tabs" defaultActiveKey="React">
               <Nav fill variant="tabs" defaultActiveKey="React">
                 <Nav.Item>

@@ -48,7 +48,7 @@ export const Banner =() =>{
                 <TrackVisibility>
                   {({ isVisible }) =>
                   <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
-                    <span className="tagline">Bienvenidos a mi Portfololio</span>
+                    <span className="tagline">Bienvenidos a mi Portfolio</span>
                     <h1><span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h1>
                       <p>Somos una empresa dedicada al desarrollo de aplicaciones. Este es un emprendimiento personal de Nicolás Caputo, pero en varios proyectos fue acompañado por colegas durante el desarrollo. Principalmente desarrollamos aplicaciones web, aunque contamos con experiencia en desarrollo de aplicaciones de escritorio y modelos de IA.</p>
                   </div>}

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.633b151e.css",
-    "main.js": "/static/js/main.d79046ff.js",
+    "main.js": "/static/js/main.3f676a2b.js",
     "static/js/787.a3ef4163.chunk.js": "/static/js/787.a3ef4163.chunk.js",
     "static/media/Desarrollo i.PNG": "/static/media/Desarrollo i.6706019c459e26506e39.PNG",
     "static/media/SiguiendolaLuna.png": "/static/media/SiguiendolaLuna.8aeb5aed1fc8295e4136.png",
@@ -32,11 +32,11 @@
     "index.html": "/index.html",
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.633b151e.css.map": "/static/css/main.633b151e.css.map",
-    "main.d79046ff.js.map": "/static/js/main.d79046ff.js.map",
+    "main.3f676a2b.js.map": "/static/js/main.3f676a2b.js.map",
     "787.a3ef4163.chunk.js.map": "/static/js/787.a3ef4163.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.633b151e.css",
-    "static/js/main.d79046ff.js"
+    "static/js/main.3f676a2b.js"
   ]
 }

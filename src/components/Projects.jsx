@@ -67,7 +67,7 @@ export const Projects = () => {
       language: "Otro",
       web: "https://www.desarrolloi.org"
     },
-  ];
+  ]
 
   return (
     <section className="proyect" id="projects">

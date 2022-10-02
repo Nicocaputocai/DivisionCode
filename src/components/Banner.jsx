@@ -38,7 +38,7 @@ export const Banner =() =>{
             setLoopNum(loopNum + 1);
             setDelta(500);
         }
-    }
+    };
 
     return (
         <section className="banner" id="home">

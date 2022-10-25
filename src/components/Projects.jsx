@@ -90,6 +90,7 @@ export const Projects = () => {
                   <Nav.Link eventKey="Otros">Otros proyectos</Nav.Link>
                 </Nav.Item>
               </Nav>
+              <br />
               <Tab.Content>
                 <Tab.Pane eventKey="React">
                     <Row>

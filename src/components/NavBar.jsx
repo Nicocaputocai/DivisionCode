@@ -2,6 +2,8 @@ import { useState, useEffect } from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
 import logo from "../assets/img/Isotipo.png";
 import logo2 from "../assets/img/Logotipo.png";
+import logoBlanco from '../assets/img/Isotipo blanco.png'
+import logoBlanco2 from '../assets/img/Logotipo blanco.png'
 import navIcon1 from "../assets/img/nav-icon1.svg";
 import navIcon2 from "../assets/img/github.png"
 
@@ -34,7 +36,7 @@ export const NavBar = () => {
           <img src={logo} alt="Logo" />
         </Navbar.Brand>
         <Navbar.Brand href="/">
-          <img src={logo2} alt="Logo" />
+          <img src={logoBlanco2} alt="Logo" />
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav">
           <span className="navbar-toggler-icon"></span>
